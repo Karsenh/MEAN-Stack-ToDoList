@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+
+// Import main-styles.scss from root
+@import 'main-styles';
+
+// Import Bulma (Open-source CSS Framework based on flexbox)
+@import '../node_modules/bulma/bulma.sass';
